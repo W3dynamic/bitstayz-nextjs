@@ -15,10 +15,10 @@ const UserDropdown = ({ onDisconnect, ethBalance }) => (
         <div className="rn-dropdown">
             <div className="rn-inner-top">
                 <h4 className="title">
-                    <Anchor path="/"></Anchor>
+                    <Anchor path="/">Investor #5643</Anchor>
                 </h4>
                 <span>
-                    <Anchor path="/"></Anchor>
+                    <Anchor path="/">Wallet</Anchor>
                 </span>
             </div>
             <div className="rn-product-inner">
