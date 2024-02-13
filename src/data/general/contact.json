@@ -1,0 +1,17 @@
+{
+    "id": "contact-data-01",
+    "map": {
+        "lat": -12.043333,
+        "lng": -77.028333,
+        "mapKey": "AIzaSyB3mMuvl8IUlviRZiizBiX7uhsdIqunx94"
+    },
+    "socials": [
+       
+        {
+            "id": 2,
+            "icon": "feather-twitter",
+            "link": "https://twitter.com/bitstayz",
+            "title": "Twitter"
+        }
+    ]
+}

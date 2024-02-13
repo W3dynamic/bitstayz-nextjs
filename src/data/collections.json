@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Penthouse apartment. [SOON]",
+        "slug": "/collection",
+        "total_item": 100,
+        "image": {
+            "src": "/images/collection/K002.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/K001.jpg"
+            },
+            {
+                "src": "/images/collection/K003.jpg"
+            },
+            {
+                "src": "/images/collection/K004.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/collection/K011.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Luxury 4-bedroom apartment [SOON]",
+        "slug": "/collection",
+        "total_item": 100,
+        "image": {
+            "src": "/images/collection/k006.jpg"
+        },
+        "thumbnails": [
+            {
+                "src": "/images/collection/k007.jpg"
+            },
+            {
+                "src": "/images/collection/k008.jpg"
+            },
+            {
+                "src": "/images/collection/k009.jpg"
+            }
+        ],
+        "profile_image": {
+            "src": "/images/collection/k010.jpg"
+        }
+    },
+    {
+        
+    },
+    {
+        
+    }
+    
+    
+]
