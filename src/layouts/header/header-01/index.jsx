@@ -84,7 +84,6 @@ const Header = ({ className }) => {
                             </div>
                         </div>
                         <div className="header-right">
-                            
                             {!isAuthenticated && (
                                 <div className="setting-option header-btn">
                                     <div className="icon-box">

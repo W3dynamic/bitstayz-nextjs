@@ -24,8 +24,6 @@ const About = ({ posts }) => {
                 <AboutArea data={content["about-section"]} />
                 <QuoteArea data={content["quote-section"]} />
                 <FunfactArea data={content["funfact-section"]} />
-                
-                
             </main>
             <Footer />
         </Wrapper>

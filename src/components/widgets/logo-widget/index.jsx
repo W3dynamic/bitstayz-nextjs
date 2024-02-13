@@ -16,7 +16,7 @@ LogoWidget.propTypes = {
                 alt: PropTypes.string,
             })
         ),
-        text: PropTypes.string, 
+        text: PropTypes.string,
     }),
 };
 

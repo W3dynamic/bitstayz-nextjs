@@ -19,9 +19,7 @@
                     "content": "BitStayz real estate network - NFT's not only makes you passive income, but increases or atleast keeps its value over time....even when bear market hits."
                 }
             ],
-            "buttons": [
-                
-            ],
+            "buttons": [],
             "image": {
                 "src": "/images/banner/1.png"
             },
@@ -36,12 +34,8 @@
                     "title": "Until year",
                     "counter": 2026
                 }
-               
             ],
-            "clients": [
-                
-                
-            ]
+            "clients": []
         },
         {
             "section": "collection-section",

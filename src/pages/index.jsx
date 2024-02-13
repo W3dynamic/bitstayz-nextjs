@@ -41,7 +41,7 @@ const Home = () => {
             <Header />
             <main id="main-content">
                 <HeroArea data={content["hero-section"]} />
-                
+
                 <CollectionArea
                     data={{
                         ...content["collection-section"],
@@ -49,10 +49,6 @@ const Home = () => {
                     }}
                 />
                 <ServiceArea data={content["service-section"]} />
-                
-                
-                
-                
             </main>
             <Footer />
         </Wrapper>

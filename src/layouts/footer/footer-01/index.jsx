@@ -28,24 +28,14 @@ const Footer = ({ space, className, data }) => (
             {data?.items && (
                 <div className="footer-top">
                     <div className="container">
-                        <div className="row">
-                            
-                        </div>
+                        <div className="row" />
                     </div>
                 </div>
             )}
 
             <div className="container">
                 <div className="row gx-5">
-                    <div className="col-lg-3 col-md-6 col-sm-6 col-12">
-                        
-                    </div>
-
-                    
-
-                    
-
-                    
+                    <div className="col-lg-3 col-md-6 col-sm-6 col-12" />
                 </div>
             </div>
         </div>

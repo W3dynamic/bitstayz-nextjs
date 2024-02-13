@@ -16,7 +16,6 @@ const Footer = ({ className }) => (
             <div className="row">
                 <div className="col-lg-12">
                     <div className="inner text-center">
-                        
                         <p
                             className="description mt--30"
                             dangerouslySetInnerHTML={{

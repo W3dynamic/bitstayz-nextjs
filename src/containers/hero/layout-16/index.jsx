@@ -112,9 +112,7 @@ const HeroArea = ({
                                             className="more-author-text"
                                             path="/author"
                                             tabIndex="0"
-                                        >
-                                            
-                                        </Anchor>
+                                        />
                                     </div>
                                 </div>
                                 {texts?.[1]?.content && (

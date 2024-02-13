@@ -20,10 +20,16 @@ const ConnectArea = ({ className, space }) => (
                     data-sal-delay="150"
                     data-sal-duration="800"
                 >
-                    <h3 className="connect-title">Spread the word out of early bird rewards</h3>
+                    <h3 className="connect-title">
+                        Spread the word out of early bird rewards
+                    </h3>
                     <p className="connect-td">
-                    Spread the word about our early bird promotion! If your tweet receives at least 100 bookmarks, you qualify for the influencer reward, which is three times the value of the early bird reward. <h5>What does BitStayz do in short?</h5>  {" "}
-                        <Anchor path="/collection"></Anchor>
+                        Spread the word about our early bird promotion! If your
+                        tweet receives at least 100 bookmarks, you qualify for
+                        the influencer reward, which is three times the value of
+                        the early bird reward.{" "}
+                        <h5>What does BitStayz do in short?</h5>{" "}
+                        <Anchor path="/collection" />
                     </p>
                 </div>
                 <div
@@ -33,7 +39,7 @@ const ConnectArea = ({ className, space }) => (
                     data-sal-duration="800"
                 >
                     <p className="wallet-bootm-disc">
-                        Everyrthing you need to know about Airdrop. 
+                        Everyrthing you need to know about Airdrop.
                     </p>
                 </div>
             </div>
@@ -132,9 +138,7 @@ const ConnectArea = ({ className, space }) => (
                             data-sal="slide-up"
                             data-sal-delay="150"
                             data-sal-duration="800"
-                        >
-                            
-                        </div>
+                        />
                         <div
                             className="col-12"
                             data-sal="slide-up"
