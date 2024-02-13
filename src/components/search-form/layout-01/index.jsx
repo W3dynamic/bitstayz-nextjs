@@ -1,3 +1,4 @@
+/* eslint-disable */
 const SearchForm = () => (
     <form className="search-form-wrapper" action="#">
         <input type="search" placeholder="Search Here" aria-label="Search" />

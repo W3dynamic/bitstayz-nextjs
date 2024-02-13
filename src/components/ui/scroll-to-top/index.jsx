@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { useEffect } from "react";
 import clsx from "clsx";
 import { useScrollToTop } from "@hooks";

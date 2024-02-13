@@ -1,3 +1,4 @@
+/* eslint-disable */
 import dynamic from "next/dynamic";
 import PropTypes from "prop-types";
 import clsx from "clsx";

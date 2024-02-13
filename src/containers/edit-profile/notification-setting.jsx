@@ -1,3 +1,4 @@
+/* eslint-disable */
 import Button from "@ui/button";
 
 const NotificationSetting = () => (

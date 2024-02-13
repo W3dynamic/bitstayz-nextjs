@@ -1,9 +1,9 @@
 {
     "parser": "@babel/eslint-parser",
     "env": {
-        "browser": false,
-        "es2020": false,
-        "node": false
+        "browser": true,
+        "es2020": true,
+        "node": true
     },
     "extends": [
         "eslint:recommended",
