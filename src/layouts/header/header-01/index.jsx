@@ -110,7 +110,7 @@ const Header = ({ className }) => {
                                 <div className="icon-box">
                                     <Anchor path={headerData.activity_link}>
                                         <i className="feather-bell" />
-                                        <span className="badge">6</span>
+                                        <span className="badge">.</span>
                                     </Anchor>
                                 </div>
                             </div>
