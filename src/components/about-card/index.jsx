@@ -22,14 +22,14 @@ const AboutCard = ({ className, title, desc, path }) => (
             </p>
             {path && (
                 <Button
-                    path={path}
+
                     color="primary-alta"
                     className="sal-animate mt--20"
                     data-sal="slide-up"
                     data-sal-duration="800"
                     data-sal-delay="150"
                 >
-                    See Our Blog
+                    Start to invest
                 </Button>
             )}
         </div>
