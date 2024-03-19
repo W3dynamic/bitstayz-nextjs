@@ -20,18 +20,7 @@ const AboutCard = ({ className, title, desc, path }) => (
             >
                 {desc}
             </p>
-            {path && (
-                <Button
 
-                    color="primary-alta"
-                    className="sal-animate mt--20"
-                    data-sal="slide-up"
-                    data-sal-duration="800"
-                    data-sal-delay="150"
-                >
-                    Start to invest
-                </Button>
-            )}
         </div>
     </div>
 );
